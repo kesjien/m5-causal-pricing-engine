@@ -36,7 +36,7 @@ The experimental runs yielded critical insights into how advanced machine learni
 
 ### 1. Causal Pipeline & Impact Dashboard
 <p align="center">
-  <img src="figures/causal_pipeline_dashboard.jpg" alt="Causal Pipeline Dashboard" width="800px">
+  <img src="figures/causal_pipeline_dashboard.png" alt="Causal Pipeline Dashboard" width="800px">
 </p>
 *Figure: Multi-panel dashboard showcasing estimated CATE price elasticity distributions, operational markdown recommendations, counterfactual waste reduction impact, and causal drift audits.*
 
