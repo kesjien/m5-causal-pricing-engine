@@ -1,0 +1,14 @@
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  validation_start_day: 1914
+
+model:
+  n_estimators: 100
+  random_state: 42
+  cv_splits: 3
+  tweedie_variance_power: 1.1
+
+features:
+  lags: [7, 14, 28]
+  rolling_windows: [7, 28]
